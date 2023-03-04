@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "name": "Ben Hoberg",
+      "userName": "pino91",
+      "email": "admin@vpnetflix.com",
+      "isStaff": false,
+      "country": "US",
+      "id": 1
+    },
+    {
+      "email": "test@vpnetflix.com",
+      "name": "Test Testerson",
+      "userName": "testy",
+      "country": "ZA",
+      "isStaff": false,
+      "id": 2
+    },
+    {
+      "email": "val@nss.com",
+      "name": "val freeman",
+      "userName": "valCodes",
+      "country": "GB",
+      "isStaff": false,
+      "id": 3
+    },
+    {
+      "email": "email@email.email",
+      "name": "test",
+      "userName": "tester",
+      "country": "HK",
+      "isStaff": false,
+      "id": 4
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 1,
+      "netflixid": 60011152,
+      "type": "movie",
+      "img": "https://occ-0-2851-38.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZVO6ItTejgTusodETTiu3L5xzww2kE-0Jgbore0GiukWNGYQFVAQZcVUkiyoodPWC17iqffeg_QJ8dvX9eh53Jo3Q.jpg?r=bc1",
+      "title": "The Godfather",
+      "watchlistId": 1,
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "netflixid": 81258637,
+      "img": "https://occ-0-363-2567.1.nflxso.net/dnm/api/v6/oQyw8Fv9eE41UPapt7zHvdUdzrE/AAAABWUA_dZ-AzogIW7r0h46fCxBmayVfrv6bs2BciONhuBS3jfPpjaA1P6Al_8TAHA9cPN-_xnJgJCyny8XhbLbEkFONw1-RZPUYcczSOXOfsGTHLWVCvBCIkpemrZh08_8QhA.jpg?r=6d4",
+      "title": "The Bastard Son & The Devil Himself",
+      "type": "series",
+      "watchlistId": 1,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "netflixid": 70131314,
+      "img": "https://occ-0-2851-38.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYDAY7Malaj4klMEjUvy1YC7O6JXaUodaDIW2xyYs_huUch4quAuREHvGe6VlIj6o1K3THeI7eKXlBDuS6a-JZH7sw.jpg?r=d87",
+      "title": "Inception",
+      "type": "movie",
+      "watchlistId": 1,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "netflixid": 70153373,
+      "img": "https://occ-0-4012-1490.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVM_z0cJlIzxHBx5dvdJRkeLAkUU_-aobRgDYq-bIeBAk_9_SN-wtKsdtWmLQ0vXDAd5t4KHHFIvs8wPNN_Ie1BFUQ.jpg?r=840",
+      "title": "Seinfeld",
+      "type": "series",
+      "watchlistId": 2,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "netflixid": 70021642,
+      "img": "https://occ-0-2851-38.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABeYPkFPsQbcBIUF-BxlgzmkZqoiB5yZ7X6varsCAOrCk0ImhpOU7k4tmw_8Yn8wkrfEN4gVf3GMHxL6sK5d6-WratQ.jpg?r=911",
+      "title": "Batman Begins",
+      "type": "movie",
+      "watchlistId": 1,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "netflixid": 80244340,
+      "img": "https://occ-0-4039-1500.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZ_cQrPgOy8O7c3pOakRfFa0UfbHiefXlfwibdofMAQlcoAvqBKT7pjEzttyks9Kymg_nalISlZMp3iQKYoHDvw_L8ONS2pm9f_mCby9u6gvGvWunNIc-2xcdAQ.jpg?r=afd",
+      "title": "Kid Cosmic",
+      "type": "series",
+      "watchlistId": 2,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "netflixid": 80204890,
+      "type": "series",
+      "img": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYVnl-NRSoNpvJ3tRJDKXsOmP1jfg7hOLuXJdGKS7KZV7FuOIoaHZx0aELRpBh6T6tIpTeRoyQc4TQD1A5M4DAcF8akVBWt643Q4s39s1R9E9y9v0uhjtRbMSjE.jpg?r=c65",
+      "title": "Formula 1: Drive to Survive",
+      "watchlistId": 2,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "netflixid": 70224562,
+      "img": "http://art-1.nflximg.net/0daa9/dc6220da755dcb949f888612c8999cb1b160daa9.jpg",
+      "title": "The Phantom of the Opera at the Royal Albert Hall",
+      "type": "movie",
+      "watchlistId": 1,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "netflixid": 80014749,
+      "img": "https://occ-0-2851-38.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVPJAAxjNaEJf4dbmzdBegO_aMD3np-XuKs1gfUVeVfiA6jguCX0GOi8NueKXx_L3BZRmSCTFovrgPEZwgxGMuBWZg.jpg?r=495",
+      "title": "Rick and Morty",
+      "type": "series",
+      "watchlistId": 1,
+      "id": 13
+    }
+  ],
+  "watchlists": [
+    {
+      "id": 1,
+      "name": "VPN needed"
+    },
+    {
+      "id": 2,
+      "name": "No VPN needed"
+    }
+  ]
+}
